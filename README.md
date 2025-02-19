@@ -38,7 +38,7 @@ The dataset contains key attributes collected for loan applications from rural c
 
 ### 🔍 Visual Insights:  
 1. **correlation_heatmap**  
-   ![alt text](correlation_heatmap-1.png)
+   ![alt text](correlation_heatmap.png)
 
 2. **countplot**  
  ![alt text](countplot.png)
